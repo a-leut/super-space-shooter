@@ -7,9 +7,6 @@ import glob, shutil
 sys.argv.append("py2exe")
  
 VERSION = '1.0'
-AUTHOR_NAME = 'Alex Leutenegger'
-AUTHOR_EMAIL = 'alex.leutenegger@gmail.com'
-AUTHOR_URL = "http://www.alexleut.com"
 PRODUCT_NAME = "space"
 SCRIPT_MAIN = 'main.py'
 VERSIONSTRING = PRODUCT_NAME + " ALPHA " + VERSION
